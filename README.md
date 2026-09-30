@@ -112,6 +112,6 @@ Save/load players from CSV or JSON
 Captain & vice-captain selection
 Export Playing 11 to file
 Advanced analytics-based scoring
-Author
 
+Author
 CHAITANYA HARSHNANDAN DESALE 
